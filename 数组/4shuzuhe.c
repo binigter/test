@@ -21,7 +21,7 @@ int main()
         }
         
     }
-    // printf("\n%d",n);
+    printf("\n%d",n);
     return 0;
     
 }
