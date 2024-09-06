@@ -21,7 +21,7 @@ int main()
         }
         
     }
-    printf("     %d",n);
+    printf("     ×ÜÊı%d",n);
     return 0;
     
 }
